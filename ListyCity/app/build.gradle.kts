@@ -39,7 +39,7 @@ android {
 }
 
 dependencies {
-    implementation(files("/Users/honaka/Library/Android/sdk/platforms/android-36/android.jar"))
+    //implementation(files("/Users/honaka/Library/Android/sdk/platforms/android-36/android.jar"))
     implementation(libs.appcompat)
     implementation(libs.material)
     implementation(libs.activity)
