@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 6 - Javadocs
+# CMPUT 301 : Lab 6 - JavaDoc
 
 ## Student Details
 
